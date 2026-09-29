@@ -11,7 +11,7 @@ TripSync is a database system that helps groups travelling together plan their t
 | Rebecca | 251414258 |
 | Kristina | 251413502 |
 | Romy | 251445143 |
-| Panos | |
+| Panos | 251461455 |
 | Abhay | |
 
 ## Where things are
