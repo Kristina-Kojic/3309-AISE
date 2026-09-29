@@ -24,10 +24,10 @@ The dates are our own goals. We'll change them once we know the real due dates.
 
 Why: we need to know what tools we're using before we build anything.
 
-- [ ] Rebecca: make the GitHub repo and invite everyone (Sep 30)
+- [ ] Kristina: make the GitHub repo and invite everyone (Sep 30)
 - [ ] Everyone: add your GitHub username to the README and push it, to check git works (Oct 1)
-- [ ] Kristina: ask the prof which database and language to use, whether we need a real UI, and what AI we can use (Oct 1)
-- [ ] Kristina: write the real due dates at the bottom of this file (Oct 2)
+- [ ] Anyone: ask the prof which database and language to use, whether we need a real UI, and what AI we can use (Oct 3)
+- [ ] Anyone: write the real due dates at the bottom of this file (Oct 2)
 - [ ] Everyone: pick our tools based on the prof's answers (Oct 2)
 
 ---
